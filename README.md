@@ -30,6 +30,7 @@ These are all windows-based applications (since the OSED is a windows-focused co
  * Vulnserver KSTET
  * Easy File Sharing Web Server
  * Xitami Web Server 2.5
+ * HP OpenView NNM 7.5
 
 ## Bypassing Character Restrictions
 
