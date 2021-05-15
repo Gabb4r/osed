@@ -4,8 +4,19 @@ These are all windows-based applications (since the OSED is a windows-focused co
 ## Basic Stack-based Buffer Overflows
 Exploiting basic stack-based buffer overflows ...
 
+ * Vulnserver TRUN
+ * Vulnserver GTER
+ * Vulnserver HTER
+
 ## Structured Exception Handler Overflows
 Exploiting the Structured Exception Handler (SEH) ...
+
+ * Vulnserver GMON
+ * Vulnserver LTER
+
+## Egghunting
+
+ * Vulnserver KSTET
 
 ## Return-Oriented Programming
 Bypassing Data Execution Prevention (DEP) ...
