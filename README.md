@@ -39,9 +39,9 @@ These are all windows-based applications (since the OSED is a windows-focused co
 
 ## Return-Oriented Programming
 
- * Vulnserver TRUN
- * ASX to MP3 converter 3.1.2.1
- * VUPlayer 2.49
+ * Vulnserver TRUN + DEP
+ * ASX to MP3 converter 3.1.2.1 + DEP
+ * VUPlayer 2.49 + DEP
 
 ## Stack Pivoting
 Overcoming space restrictions with stack pivoting ...
