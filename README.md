@@ -23,7 +23,7 @@ Refer to chapter 3 of the EXP-301 syllabus.
  * MiniShare 1.4.1
 
 
-## 2. Structured Exception Handler Overflows
+## 2. Exploiting SEH Overflows
 Refer to chapter 4 of the EXP-301 syllabus.
 
 ### 2.1. Local Exploits
@@ -54,7 +54,7 @@ Refer to chapter 6 of the EXP-301 syllabus.
  * Xitami Web Server 2.5
 
 
-## 4. Bypassing Character Restrictions
+## 4. Creating Custom Shellcode
 Refer to chapter 7 of the EXP-301 syllabus.
 
 ### 4.1. Local Exploits
