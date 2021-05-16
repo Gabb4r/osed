@@ -1,34 +1,41 @@
 # OSED Course Resources
-These are all windows-based applications (since the OSED is a windows-focused course).
+
 
 ## Basic Stack-based Buffer Overflows
 
- * Vulnserver TRUN
- * Vulnserver GTER
- * Vulnserver HTER
- * FreeFloat FTP Server
- * PCMan FTP Server
- * Brainpan
- * DoStackBufferOverflowGood
- * MiniShare 1.4.1
+### Local
  * ASX to MP3 converter 3.1.2.1
  * VUPlayer 2.49
  * Easy RM to MP3 Converter v2.7.3.700
  * DVD X Player Pro v5.5
 
+### Remote
+ * Vulnserver TRUN
+ * Vulnserver GTER
+ * Vulnserver HTER
+ * Brainpan
+ * DoStackBufferOverflowGood
+ * FreeFloat FTP Server 1.0
+ * PCMan FTP Server 2.0.7
+ * MiniShare 1.4.1
+
+
 ## Structured Exception Handler Overflows
 
- * Vulnserver GMON
- * Easy File Sharing Web Server
- * Millenium MP3 Studio 2.0
- * Free MP3 CD Ripper 2.6
- * RGUI i386 3.4.4
- * Audiograbber 1.83
+### Local
  * 10-Strike Network Inventory Explorer
  * 10-Strike Network Scanner v3.0
+ * Millenium MP3 Studio 2.0
+ * Free MP3 CD Ripper 2.6
  * Easy CD DVD Copy v1.3.24
- * FTPShell Server v6.80
  * Zip-n-Go v4.9
+ * Boxoft Audio Converter 2.3.0
+
+### Remote
+ * Vulnserver GMON
+ * Easy File Sharing Web Server
+ * FTPShell Server v6.80
+
 
 ## Egghunting
 
@@ -36,7 +43,8 @@ These are all windows-based applications (since the OSED is a windows-focused co
  * Vulnserver KSTET
  * Easy File Sharing Web Server
  * Xitami Web Server 2.5
- * HP OpenView NNM 7.5
+ * docPrint Pro 8.0
+
 
 ## Bypassing Character Restrictions
 
@@ -46,6 +54,7 @@ These are all windows-based applications (since the OSED is a windows-focused co
  * Quick Zip v4.60.019
  * SysGauge Pro v4.6.12
 
+
 ## Return-Oriented Programming
 
  * Vulnserver TRUN + DEP
@@ -53,11 +62,14 @@ These are all windows-based applications (since the OSED is a windows-focused co
  * VUPlayer 2.49 + DEP
  * DVD X Player Pro v5.5 + DEP
 
+
 ## Stack Pivoting
 Overcoming space restrictions with stack pivoting ...
 
+
 ## Partial Return Pointer Overwrite
 Bypassing Address Space Layout Randomization (ASLR) ...
+
 
 ## Format String Specifier Attacks
 Exploiting format strings ...
