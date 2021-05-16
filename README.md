@@ -64,6 +64,15 @@ Refer to chapter 6 of the EXP-301 syllabus.
 
 ### 3.1. Local Exploits
  * docPrint Pro 8.0
+ * Foxit Reader 4.1.1
+ * Audacity 1.2
+ * MiniShare 1.5.5
+ * Free MP3 CD Ripper 2.8
+ * Base64 Decoder 1.1.2
+ * Frigate Professional 3.36.0.9
+ * CoolPlayer+ Portable 2.19.6
+ * KiTTY Portable 0.65.0.2p
+ * IP-Tools 2.5
 
 ### 3.2. Remote Exploits
  * Vulnserver GMON
