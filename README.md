@@ -1,6 +1,8 @@
 # EXP-301 Practical Exercises
 
-![logo](https://raw.githubusercontent.com/sradley/osed/master/EXP-301-course-icon.svg)
+<p align="center">
+  ![logo](https://raw.githubusercontent.com/sradley/osed/master/EXP-301-course-icon.svg)
+</p>
 
 
 ## 1. Exploiting Stack Overflows
