@@ -77,8 +77,14 @@ Refer to chapter 6 of the EXP-301 syllabus.
 ### 3.2. Remote Exploits
  * Vulnserver GMON
  * Vulnserver KSTET
- * Easy File Sharing Web Server
+ * Easy File Sharing Web Server 7.2
  * Xitami Web Server 2.5
+ * TFTP Server 1.4
+ * MinaliC WebServer 2.0.0
+ * Sysax 5.53
+ * Sysax Multi Server 5.52
+ * Savant Web Server 3.1
+ * WorldMail IMAPd 3.0
 
 
 ## 4. Creating Custom Shellcode
