@@ -1,4 +1,4 @@
-# OSED Course Resources
+# EXP-301 Practical Exercises
 
 
 ## 1. Exploiting Stack Overflows
