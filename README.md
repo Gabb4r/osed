@@ -82,8 +82,4 @@ Refer to chapter 10 of the EXP-301 syllabus.
 
 
 ## 7. Format String Specifier Attack
-Refer to chapters 11 & 12 of the EXP-301 syllabus. 
-
-
-## 8. Stack Pivot
-Refer to chapter 12.3.2 of the EXP-301 syllabus.
+Refer to chapters 11 & 12 of the EXP-301 syllabus.
