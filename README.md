@@ -55,13 +55,13 @@ Refer to chapter 6 of the EXP-301 syllabus.
 ## 4. Bypassing Character Restrictions
 Refer to chapter 7 of the EXP-301 syllabus.
 
-## 4.1. Local Exploits
+### 4.1. Local Exploits
  * GoldWave 5.70
  * CodeBlocks 17.12
  * Quick Zip v4.60.019
  * SysGauge Pro v4.6.12
 
-## 4.2. Remote Exploits
+### 4.2. Remote Exploits
  * Vulnserver LTER
 
 
