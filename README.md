@@ -1,5 +1,3 @@
-# EXP-301 Practical Exercises
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sradley/osed/master/EXP-301-course-icon.svg">
 </p>
