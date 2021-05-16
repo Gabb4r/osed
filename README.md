@@ -118,3 +118,10 @@ Refer to chapter 10 of the EXP-301 syllabus.
 
 ## 7. Format String Specifier Attack
 Refer to chapters 11 & 12 of the EXP-301 syllabus.
+
+### 7.1. Remote Exploits
+ * Easy Address Book Web Server 1.2
+ * Magic Winmail Server 2.3
+ * ComSndFTP 1.3.7 Beta
+ * XM Easy Personal FTP Server 5.30
+ * BolinTech DreamFTP Server 1.02
