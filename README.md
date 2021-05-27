@@ -12,10 +12,6 @@ Refer to chapter 3 of the EXP-301 syllabus.
  * Easy RM to MP3 Converter v2.7.3.700
  * DVD X Player Pro v5.5
  * BlazeDVD Pro Player 6.1
- * MuPDF 1.3
- * Foxit Reader 4.1.1
- * eZip Wizard 3.0
- * Audio Converter 8.1
  * Shellzip 3.0 Beta 3
 
 ### 1.2. Remote Exploits
@@ -45,6 +41,7 @@ Refer to chapter 4 of the EXP-301 syllabus.
  * Easy AVI DivX Converter 1.2.24
  * My Video Converter 1.5.24
  * VeryPDF Image2PDF Converter
+ * eZip Wizard 3.0
 
 ### 2.2. Remote Exploits
  * Vulnserver GMON
@@ -95,6 +92,8 @@ Refer to chapter 7 of the EXP-301 syllabus.
  * CodeBlocks 17.12
  * Quick Zip v4.60.019
  * SysGauge Pro v4.6.12
+ * Audio Converter 8.1
+ * Foxit Reader 4.1.1
 
 ### 4.2. Remote Exploits
  * Vulnserver LTER
